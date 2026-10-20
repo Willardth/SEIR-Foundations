@@ -8,9 +8,9 @@ I have uploaded the screenshots to the screenshots folder in the GitHub reposito
 
 Deployments
 IP address	        Screenshot       Instance Name                      Terminated      Connection
-1	184.169.215.202   screenshot1	     i-0680fa610977b07fc (newhw1)       yes             AWS Connect                       
-2	18.145.83.248	    screenshot2	     i-0435eef0ad896543a (newhw2)       yes             AWS Connect
-3	13.56.163.79      screenshot3	     i-0527ba94024108f79 (newhw3)       yes             AWS Connect
+1	184.169.215.202   screenshot24	     i-0680fa610977b07fc (newhw1)       yes             AWS Connect                       
+2	18.145.83.248	    screenshot25	     i-0435eef0ad896543a (newhw2)       yes             AWS Connect
+3	13.56.163.79      screenshot26	     i-0527ba94024108f79 (newhw3)       yes             AWS Connect
 
 
 Additional information:
@@ -23,7 +23,7 @@ Prayed, then spun up each ec2 and waited to make sure the checks were ok.
 Then, used the public IPs to check to see if the instances worked properly.
 Later I spun up another ec2 using a 3 page website script I found.  
 
-with screenshots
-http://54.183.181.99/dynamic
-http://54.183.181.99/about
-http://54.183.181.99/
+with screenshots 27-30
+54.183.181.99/dynamic
+54.183.181.99/about
+54.183.181.99/
