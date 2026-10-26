@@ -4,4 +4,3 @@
 Spotter = Corey Joffrion
 Team 	= Dee Jones, Corey Joffrion and Willardth(Dee) Smith
 Time 	= Days + Times when the team meets = Mon 7pm - 8:30pm EST
-Anytime after 630pm/pacific
