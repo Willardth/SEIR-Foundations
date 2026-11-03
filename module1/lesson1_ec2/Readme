@@ -1,3 +1,9 @@
+This is what I have so far.  I'm still working on it.
+
+
+
+
+
 Here is the Markdown table layout for your lesson1_ec2 README.md file, pre-formatted with your requested columns and placeholders for all 7 runs.
 
 | Run | Date | Time zone | Instance ID | Boot time | Public IPv4 DNS | Screenshot | Terminated? |
@@ -9,3 +15,8 @@ Here is the Markdown table layout for your lesson1_ec2 README.md file, pre-forma
 | Run 5 | 2026-11-01 | America/Los_Angeles | i-00413727e49ed2ea | 2026-11-01 22:17:18 UTC | Not shown in screenshot | [Screenshot 5](screenshots/hwlesson1v2_lab1_run5/Screenshot%20(167).png) | Unknown |
 | Run 6 | 2026-11-03 | America/Los_Angeles | i-060ee7babf78ddd | 2026-11-03 08:58:34 UTC | Not shown in screenshot | [Screenshot 6](screenshots/hwlesson1v2_lab1_run6/Screenshot%20(176).png) | Unknown |
 | Run 7 | 2026-11-01 | America/Los_Angeles | i-0f7bcd10957231681 | 2026-11-01 08:58:31 UTC | Not shown in screenshot | [Screenshot 7](screenshots/hwlesson1v2_lab1_run7/Screenshot%20(181).png) | Unknown |
+
+
+
+
+
