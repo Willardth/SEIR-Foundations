@@ -4,7 +4,7 @@ Here is the Markdown table layout for your lesson1_ec2 README.md file, pre-forma
 |---|---|---|---|---|---|---|---|
 | Run 1 | 2026-10-31 | America/Los_Angeles | i-0cde300f1b1a5f028 | 2026-11-01 00:16:18 UTC | Not shown in screenshot | [Screenshot 1](screenshots/hwlesson1v2_lab1_run1/Screenshot%20(124).png) | Unknown |
 | Run 2 | 2026-10-31 | America/Los_Angeles | i-034714b97b05f03b6 | 2026-11-01 00:16:18 UTC | Not shown in screenshot | [Screenshot 2](screenshots/hwlesson1v2_lab1_run2/Screenshot%20(132).png) | Unknown |
-| Run 3 | YYYY-MM-DD | e.g., PST | i-0xxxxxxxxxxxxxxxx | HH:MM:SS UTC | ec2-xx-xx-xx-xx... | [Screenshot 3](url) | [ ] Yes / [ ] No |
+| Run 3 | 2026-11-01 | America/Los_Angeles | i-0219046a2c53f843e | 2026-11-01 22:18:17 UTC | Not shown in screenshot | [Screenshot 3](screenshots/hwlesson1v2_lab1_run3/Screenshot%20(140).png) | Unknown |
 | Run 4 | YYYY-MM-DD | e.g., PST | i-0xxxxxxxxxxxxxxxx | HH:MM:SS UTC | ec2-xx-xx-xx-xx... | [Screenshot 4](url) | [ ] Yes / [ ] No |
 | Run 5 | YYYY-MM-DD | e.g., PST | i-0xxxxxxxxxxxxxxxx | HH:MM:SS UTC | ec2-xx-xx-xx-xx... | [Screenshot 5](url) | [ ] Yes / [ ] No |
 | Run 6 | YYYY-MM-DD | e.g., PST | i-0xxxxxxxxxxxxxxxx | HH:MM:SS UTC | ec2-xx-xx-xx-xx... | [Screenshot 6](url) | [ ] Yes / [ ] No |
