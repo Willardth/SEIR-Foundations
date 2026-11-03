@@ -1,0 +1,12 @@
+Here is the Markdown table layout for your lesson1_ec2 README.md file, pre-formatted with your requested columns and placeholders for all 7 runs.
+
+Run	  Date	      Time zone	Instance ID	        Boot time 	  Public IPv4 DNS	    Screenshot	        Terminated?
+Run 1	YYYY-MM-DD	e.g., PST	i-0xxxxxxxxxxxxxxxx	HH:MM:SS UTC	ec2-xx-xx-xx-xx...	[Screenshot 1](url)	[ ] Yes / [ ] No
+Run 2	YYYY-MM-DD	e.g., PST	i-0xxxxxxxxxxxxxxxx	HH:MM:SS UTC	ec2-xx-xx-xx-xx...	[Screenshot 2](url)	[ ] Yes / [ ] No
+Run 3	YYYY-MM-DD	e.g., PST	i-0xxxxxxxxxxxxxxxx	HH:MM:SS UTC	ec2-xx-xx-xx-xx...	[Screenshot 3](url)	[ ] Yes / [ ] No
+Run 4	YYYY-MM-DD	e.g., PST	i-0xxxxxxxxxxxxxxxx	HH:MM:SS UTC	ec2-xx-xx-xx-xx...	[Screenshot 4](url)	[ ] Yes / [ ] No
+Run 5	YYYY-MM-DD	e.g., PST	i-0xxxxxxxxxxxxxxxx	HH:MM:SS UTC	ec2-xx-xx-xx-xx...	[Screenshot 5](url)	[ ] Yes / [ ] No
+Run 6	YYYY-MM-DD	e.g., PST	i-0xxxxxxxxxxxxxxxx	HH:MM:SS UTC	ec2-xx-xx-xx-xx...	[Screenshot 6](url)	[ ] Yes / [ ] No
+Run 7	YYYY-MM-DD	e.g., PST	i-0xxxxxxxxxxxxxxxx	HH:MM:SS UTC	ec2-xx-xx-xx-xx...	[Screenshot 7](url)	[ ] Yes / [ ] No
+
+
