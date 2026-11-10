@@ -1,0 +1,33 @@
+hw_slack week 4
+
+1	Hello Willardth Smith
+
+
+
+
+2	info would deliver all alerts because of the severity I choose.  If I set the severity to Error I would not get an alert unless it was error or above.  It keeps the messages down(if you want) unless it is and actual issue.  Less stress.
+
+
+
+
+3	UTC(8hrs ahead of pacific time) is a time that everybody can count on the be the same. its the world using the same language(time) to communicate.  It's universal 
+
+
+
+
+4	Quiet info. is good design because you get info without the freakout of why am I getting this code.  It allows for a clearer view of importance of the message received
+
+
+
+
+5.  	If there are too many transactions for the cpu 
+	Large batch jobs
+	database queries or inefficient app code
+	fraud
+	too many repeat tries
+	backups running with the originals
+	basicly too much info coming in at one time(pause)
+
+6	at 3am? error or above to be safe. 
+
+7	I did it!
