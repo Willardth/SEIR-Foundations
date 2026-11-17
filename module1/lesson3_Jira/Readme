@@ -1,31 +1,35 @@
-Here is the lesson 3 Jira table.
+# Lesson 3: Jira Backlog
 
-| Type | ID | Title | Story Points |
-| --- | --- | --- | --- |
-| Epic | SSD-1 | A day in my shoes |  |
-| Story | SSD-2 | Monday routine | 2 |
-| Task | SSD-3 | Brush Teeth | 1 |
-| Task | SSD-4 | Shower | 1 |
-| Task | SSD-5 | Exercise | 1 |
-| Task | SSD-6 | Eat Breakfast | 1 |
-| Task | SSD-7 | Count Blessings | 1 |
-| Story | SSD-8 | Commute to work | 1 |
-| Task | SSD-10 | All projects are ready for work | 1 |
-| Story | SSD-11 | Workday | 8 |
-| Task | SSD-12 | Break and check phone | 1 |
-| Task | SSD-13 | Lunch and check phone | 1 |
-| Task | SSD-14 | Break and check phone | 1 |
-| Story | SSD-15 | Commute home | 1 |
-| Story | SSD-16 | Evening duties | 7 |
-| Task | SSD-17 | Homework | 3 |
-| Task | SSD-18 | Dinner | 1 |
-| Task | SSD-19 | Clean home | 1 |
-| Task | SSD-20 | Wash any clothes | 1 |
-| Task | SSD-21 | Rest | 1 |
-| Story | SSD-22 | Throughout the day | 4 |
-| Task | SSD-23 | Call best friend | 1 |
-| Task | SSD-24 | Check on friend going through divorce | 1 |
-| Task | SSD-25 | Read | 1 |
-| Task | SSD-26 | Video games | 1 |
-| Task | SSD-27 | Bathroom breaks | 1 |
-| Task | SSD-28 | Grocery store | 1 |
+This backlog models a day in the life using an Epic, Stories, and Tasks. The **Parent** column shows each item's place in the Jira hierarchy.
+
+| Type | ID | Title | Parent | Story Points |
+| --- | --- | --- | --- | ---: |
+| Epic | SSD-1 | A day in my shoes | — | — |
+| Story | SSD-2 | Monday routine | SSD-1 | 2 |
+| Task | SSD-3 | Brush teeth | SSD-2 | 1 |
+| Task | SSD-4 | Shower | SSD-2 | 1 |
+| Task | SSD-5 | Exercise | SSD-2 | 1 |
+| Task | SSD-6 | Eat breakfast | SSD-2 | 1 |
+| Task | SSD-7 | Count blessings | SSD-2 | 1 |
+| Story | SSD-8 | Commute to work | SSD-1 | 1 |
+| Story | SSD-11 | Workday | SSD-1 | 8 |
+| Task | SSD-10 | All projects are ready for work | SSD-11 | 1 |
+| Task | SSD-12 | Break and check phone | SSD-11 | 1 |
+| Task | SSD-13 | Lunch and check phone | SSD-11 | 1 |
+| Task | SSD-14 | Break and check phone | SSD-11 | 1 |
+| Story | SSD-15 | Commute home | SSD-1 | 1 |
+| Story | SSD-16 | Evening duties | SSD-1 | 7 |
+| Task | SSD-17 | Homework | SSD-16 | 3 |
+| Task | SSD-18 | Dinner | SSD-16 | 1 |
+| Task | SSD-19 | Clean home | SSD-16 | 1 |
+| Task | SSD-20 | Wash any clothes | SSD-16 | 1 |
+| Task | SSD-21 | Rest | SSD-16 | 1 |
+| Story | SSD-22 | Throughout the day | SSD-1 | 4 |
+| Task | SSD-23 | Call best friend | SSD-22 | 1 |
+| Task | SSD-24 | Check on friend going through divorce | SSD-22 | 1 |
+| Task | SSD-25 | Read | SSD-22 | 1 |
+| Task | SSD-26 | Video games | SSD-22 | 1 |
+| Task | SSD-27 | Bathroom breaks | SSD-22 | 1 |
+| Task | SSD-28 | Grocery store | SSD-22 | 1 |
+
+*The parent relationships are organized from the listed backlog items; verify them against the Jira project if they need to match its exact configuration.*
