@@ -1,4 +1,6 @@
-# Lesson 3: Jira Backlog
+# Lesson 3: Jira
+
+SEIR-Saga_Dee   Key is SSD
 
 This backlog models a day in the life using an Epic, Stories, and Tasks. The **Parent** column shows each item's place in the Jira hierarchy.
 
@@ -12,7 +14,7 @@ This backlog models a day in the life using an Epic, Stories, and Tasks. The **P
 | Task  | SSD-6  | Eat breakfast                            | SSD-2  | 1            |
 | Task  | SSD-7  | Count blessings                          | SSD-2  | 1            |
 | Story | SSD-8  | Commute to work                          | SSD-1  | 1            |
-| Story | SSD-11 | Workday                                  | SSD-1  | 8            |
+| Story | SSD-11 | Workday                                  | SSD-1  | 8            |        I spend most of my time at work.  Whether it is a regular work day or work meeting after.  Also I work a second job to survive and grow.
 | Task  | SSD-10 | All projects are ready for work          | SSD-11 | 1            |
 | Task  | SSD-12 | Break and check phone                    | SSD-11 | 1            |
 | Task  | SSD-13 | Lunch and check phone                    | SSD-11 | 1            |
@@ -31,5 +33,5 @@ This backlog models a day in the life using an Epic, Stories, and Tasks. The **P
 | Task  | SSD-26 | Video games                              | SSD-22 | 1            |
 | Task  | SSD-27 | Bathroom breaks                          | SSD-22 | 1            |
 | Task  | SSD-28 | Grocery store                            | SSD-22 | 1            |
-
+Total story pts.                                                        23
 *The parent relationships are organized from the listed backlog items; verify them against the Jira project if they need to match its exact configuration.*
